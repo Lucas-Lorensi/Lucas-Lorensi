@@ -23,7 +23,7 @@
 </a>
           
 ### Check out some of my projects from my portfolio:
-- [Steam....](https://github.com/Lucas-Lorensi/)
+- [Heart Diesease Analisys](https://github.com/Lucas-Lorensi/)
 
 
 ### Contact me via my email:
