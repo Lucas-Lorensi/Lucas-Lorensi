@@ -24,7 +24,7 @@
           
 ### Check out some of my projects from my portfolio:
 - [Tweets Sentiment Classification](https://github.com/Lucas-Lorensi/Tweets_Sentiment_Classification)
-- [Heart Diesease Analisys](https://github.com/Lucas-Lorensi/)
+- [Heart Diesease Analysis](https://github.com/Lucas-Lorensi/)
 
 
 ### Contact me via my email:
