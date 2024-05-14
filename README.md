@@ -23,7 +23,7 @@
 </a>
           
 ### Check out some of my projects from my portfolio:
-- [Tweets_Sentiment_Classification](https://github.com/Lucas-Lorensi/Tweets_Sentiment_Classification)
+- [Tweets Sentiment Classification](https://github.com/Lucas-Lorensi/Tweets_Sentiment_Classification)
 - [Heart Diesease Analisys](https://github.com/Lucas-Lorensi/)
 
 
