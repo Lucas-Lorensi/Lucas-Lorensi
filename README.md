@@ -22,7 +22,7 @@
 <a href="https://medium.com/@lucaslorensilucaslorensi"
 </a>
           
-### Check out some of my projects from my portfolio:
+### Check out some projects from my portfolio:
 - [Tweets Sentiment Classification](https://github.com/Lucas-Lorensi/Tweets_Sentiment_Classification)
 - [Heart Diesease Analysis](https://github.com/Lucas-Lorensi/)
 - [Card Frauds Comparing feature engineering techniques](https://github.com/Lucas-Lorensi/Cards_Frauds_FeatureEng)
