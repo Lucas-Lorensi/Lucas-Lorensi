@@ -25,6 +25,8 @@
 ### Check out some of my projects from my portfolio:
 - [Tweets Sentiment Classification](https://github.com/Lucas-Lorensi/Tweets_Sentiment_Classification)
 - [Heart Diesease Analysis](https://github.com/Lucas-Lorensi/)
+- [Card Frauds Comparing feature engineering techniques](https://github.com/Lucas-Lorensi/Cards_Frauds_FeatureEng)
+- [Regression Algorithms using Used Cars data](https://github.com/Lucas-Lorensi/UsedCar_Analyser)
 
 
 ### Contact me via my email:
